@@ -1,6 +1,6 @@
 # Web Portfolio
 
-Welcome to the repository for the Web Portfolio project! This project showcases various projects and skills in web development. The page is designed to provide an overview of my work and technical abilities in web application development.
+Welcome to the repository for the To-Do App project! This project showcases a web-based application designed to help users manage their tasks efficiently. Users can add their desired tasks to keep track of them.
 
 ## Live Demo
 
